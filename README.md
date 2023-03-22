@@ -37,4 +37,9 @@ The results of the analysis for each research question are presented in detail i
 ## Conclusion
 Based on the analysis, the most suitable country (or countries) for attracting future investments and business growth is recommended, along with the limitations and future scope of the project.
 
-Author
+## Authors
+- Kei Kasai
+- Jill Popat 
+- Dileepa
+- Romain Williams
+- Arun Prasad Krishnan
