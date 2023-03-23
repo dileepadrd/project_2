@@ -13,7 +13,7 @@ The Ease of Doing Business dataset is used in this code. The dataset is availabl
 ## Analysis
 The code reads the Ease of Doing Business dataset and drops any missing values. It then calculates the average Ease of Doing Business ranking for the past 5 years and selects the top 20 countries based on their average ranking. The code then corrects the country names and creates a new dataframe with the top 20 countries and their ranks.
 
-![Alt text]('Existing EODB Countries.png')
+![Alt text](Existing)
 
 **Top 20 Countries as of 2019**
 
