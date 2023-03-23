@@ -10,7 +10,7 @@ The analysis in this project is based on the following data sources:
 
 Ease of Doing Business (EoDB) data from the World Bank
 National well-being scores from the OECD Better Life Index
-Business Confidence Index (BCI) survey data from a private research firm
+Business Confidence Index (BCI) survey data from OECD Data [https://data.oecd.org/leadind/business-confidence-index-bci.htm]
 Political stability rankings from the Global Peace Index
 
 ## Research Questions
@@ -21,7 +21,7 @@ The following research questions were explored in this project:
 2. Which are the top 20 countries that has highest Business Confidence Index in the past 20 years?
 3. Which five countries have the most stable political environment for business growth in the next 20 years?
 4. Which country has shown the most improvement in their Ease of Doing Business ranking in the past 5 years?
-5.Based on all this analysis, which country (or countries) is the most suitable for attracting future investments and business growth?
+5. Based on all this analysis, which country (or countries) is the most suitable for attracting future investments and business growth?
 
 ## Methodology
 The following methods were used to answer the research questions:
