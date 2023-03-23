@@ -14,13 +14,14 @@ The Ease of Doing Business dataset is used in this code. The dataset is availabl
 The code reads the Ease of Doing Business dataset and drops any missing values. It then calculates the average Ease of Doing Business ranking for the past 5 years and selects the top 20 countries based on their average ranking. The code then corrects the country names and creates a new dataframe with the top 20 countries and their ranks.
 
 ![Alt text](Existing EODB Countries.png)
-**Top 20 Countries as of 2019
+
+**Top 20 Countries as of 2019**
 
 Next, the code splits the data into training and testing sets and trains a linear regression model using the training data. 
 
 ![Alt text](linear_regression_model.png)
 
-**Linear Regression model 
+**Linear Regression model** 
 
 The model is then used to predict the Ease of Doing Business ranking for the year 2019 based on the average ranking for the past 5 years. The code visualizes the linear regression model and saves the image as linear_regression_model.png. Finally, the code calculates the mean squared error and R-squared score for the model.
 
@@ -29,7 +30,7 @@ The code outputs the top 20 countries with the highest average Ease of Doing Bus
 
 ![Alt text](EODB Predictions .png)
 
-**Ease of Doing Business Prediction
+**Ease of Doing Business Prediction**
 
 ## Visualisation of Ease of Doing Business 
 
