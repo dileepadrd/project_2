@@ -15,12 +15,12 @@ Political stability rankings from the Global Peace Index
 ## Research Questions
 The following research questions were explored in this project:
 
-## Which country has grown the fastest in the past 20 years?
-1. Which country has better work/life balance that leads to better productivity, (national well-being scores)?
-2. Which are the top 20 countries that has highest Business Confidence Index in the past 20 years?
-3. Which five countries have the most stable political environment for business growth in the next 20 years?
-4. Which country has shown the most improvement in their Ease of Doing Business ranking in the past 5 years?
-5. Based on all this analysis, which country (or countries) is the most suitable for attracting future investments and business growth?
+1. Which country has grown the fastest in the past 20 years?
+2. Which country has better work/life balance that leads to better productivity, (national well-being scores)?
+3. Which are the top 20 countries that has highest Business Confidence Index in the past 20 years?
+4. Which five countries have the most stable political environment for business growth in the next 20 years?
+5. Which country has shown the most improvement in their Ease of Doing Business ranking in the past 5 years?
+6. Based on all this analysis, which country (or countries) is the most suitable for attracting future investments and business growth?
 
 ## Methodology
 The following methods were used to answer the research questions:
