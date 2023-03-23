@@ -1,6 +1,5 @@
 # Global Market Analysis
-
-**ADD Pic here**
+![Alt text](GMA.png)
 
 ## Background
 This project aims to analyze various factors that can impact business growth and attract future investments in different countries. 
