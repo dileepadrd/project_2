@@ -31,6 +31,7 @@ The following methods were used to answer the research questions:
 - Data visualization using Matplotlib and Seaborn libraries
 - Statistical analysis using descriptive statistics and regression analysis
 - Geospatial analysis using Folium and GeoPandas libraries
+- Machine learning models were also used for predicting which countries would fare better on the parameters we considered. These include XGBoost Regression, Prophet model, ARIMA model, Linear Regression and Simple Exponential Smoothing Model. 
 
 ## Results
 The results of the analysis for each research question are presented in detail in the Jupyter Notebooks and visualized in the form of graphs and maps.
