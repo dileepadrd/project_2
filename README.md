@@ -7,12 +7,10 @@ Project Abstract [[Presentation](https://docs.google.com/presentation/d/137GxTem
 This project aims to analyze various factors that can impact business growth and attract future investments in different countries. 
 
 ## Data Sources
-The analysis in this project is based on the following data sources:
-
-Ease of Doing Business (EoDB) data from the World Bank
-National well-being scores from the OECD Better Life Index
-Business Confidence Index (BCI) survey data from OECD Data [https://data.oecd.org/leadind/business-confidence-index-bci.htm]
-Political stability rankings from the Global Peace Index
+The datasets and references for this project were obtained from the following sources:
+- World Bank
+- OECD
+- Kaggle
 
 ## Research Questions
 The following research questions were explored in this project:
