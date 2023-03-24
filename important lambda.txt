@@ -1,0 +1,5 @@
+Lambda name: ml_predict_happiness_country_lambda
+bucket name: project2-ml-happiness
+project2_happyness_report.py
+
+happy-policy
