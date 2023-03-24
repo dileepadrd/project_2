@@ -36,6 +36,6 @@ The code outputs the top 20 countries with the highest average Ease of Doing Bus
 
 ![Alt text](Map.png)
 
-**Map of the World
+**Map of the World**
 
 
